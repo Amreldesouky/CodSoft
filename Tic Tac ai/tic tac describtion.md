@@ -1,7 +1,7 @@
 # Tic-Tac-Toe AI
 
 ![Tic-Tac-Toe Banner](https://via.placeholder.com/150)  
-Welcome to the **Tic-Tac-Toe AI** project! This repository contains an implementation of an AI agent that can play Tic-Tac-Toe against a human or another AI. The AI is powered by the **Minimax algorithm**, which ensures optimal play for the game.
+Welcome to the **Tic-Tac-Toe AI** project! This repository contains an implementation of an AI agent that can play Tic-Tac-Toe against a human . The AI is powered by the **Minimax algorithm**, which ensures optimal play for the game.
 
 ## 🧠 **AI Implementation**
 
