@@ -8,7 +8,7 @@ Welcome to the **Tic-Tac-Toe AI** project! This repository contains an implement
 The AI utilizes the **Minimax algorithm**, a recursive method that evaluates possible moves to maximize the AI's chances of winning while minimizing the opponent's chances. The AI always plays optimally, ensuring no possible win is overlooked.
 
 ### 🌟 Features:
-- **Two Play Modes**: Human vs AI and AI vs AI.
+- ** Human vs AI**: Human vs AI .
 - **Optimal Strategy**: AI plays optimally using the Minimax algorithm.
 - **Game Board Visualization**: The board is displayed after each move.
 - **Customizable**: Future support for GUI enhancements.
